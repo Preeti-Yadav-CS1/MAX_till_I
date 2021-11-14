@@ -1,4 +1,6 @@
-*/ keep avariable mx which stores the maximum till ith element
+*/ 
+LANGUAGE C++
+keep avariable mx which stores the maximum till ith element
 Iterate over the array and update
 mx=max(mx, a[i]) 
 */
